@@ -1,6 +1,6 @@
 ### Olá, eu sou a Jadiely Cardoso 👋
 
-Estudante de Tecnologia em Desenvolvimento Back-End em busca de aprimorar os conhecimentos na área da Tecnologia.
+Estudante de Tecnologia em Desenvolvimento Back-End em busca de aprimorar os meus conhecimentos na área da Tecnologia.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
