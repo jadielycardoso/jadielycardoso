@@ -2,7 +2,7 @@
 
 Estudante de Tecnologia em Desenvolvimento Back-End em busca de aprimorar os meus conhecimentos na área da Tecnologia.
 
-- Principais Interesses e Tecnologias:
+Principais Interesses e Tecnologias:
 
 - Linguagem e Framework: Java8+, Java EE, Spring (com ênfase no uso dos frameworks Spring Tools Suite, IntelliJ IDEA e Eclipse).
  
